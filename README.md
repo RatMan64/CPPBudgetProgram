@@ -2,8 +2,8 @@
 a c++ program that tells you how your doing on a set budget and saves that information for later analysis
 ***
 ##tasks
-*user entry
-*user data
+* user entry
+* user data
 
 
 ***
@@ -11,4 +11,3 @@ a c++ program that tells you how your doing on a set budget and saves that infor
 
 ***
 ##proposed xml template
-'
